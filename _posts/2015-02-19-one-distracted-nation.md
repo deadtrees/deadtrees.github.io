@@ -5,7 +5,7 @@ date:   2015-02-19 6:49:32
 categories: personal tech
 ---
 
-> Seems like more and more people are constantly on their smartphones nowadays.
+Seems like more and more people are constantly on their smartphones nowadays.
 
 It is now considered the norm for a group of friends to be sat in a circle, but rather than talk to each other face-to-face they are looking at their phones. Or families that spend entire evenings together but are on their phones. 
 
