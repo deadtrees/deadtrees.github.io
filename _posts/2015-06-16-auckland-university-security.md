@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A disaster waiting to happen - the fragile Opsec at the University of Auckland "
-date:   2015-05-13 11:23:32
+date:   2015-06-16 9:00:15
 categories: security uoa
 ---
 
