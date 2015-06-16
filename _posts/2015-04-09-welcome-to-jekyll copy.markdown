@@ -7,9 +7,9 @@ categories: art tepapa
 
 > When you try to cater for everyone, it is likely to be disasterous.
 
-You’ll find this post in your `Note: source of this story was originally found [here][here]` 
+Note: source of this story was originally found [here][here] 
 
-A concept from the Marketing Department at Te Papa New Zealand has emerged, showing an “x marks the spot” for where viewers of artworks can take a selfie. As Jim and Mary Barr both state (see source above) - _“One minute you think it’s going to take the job of showing our art culture seriously [*Te Papa*] and then, before you know it, it’s making an out-of-left-field panicky effort to not fall behind in the audience attention arms race."_
+A concept from the Marketing Department at Te Papa New Zealand has emerged, showing an “x marks the spot” for where viewers of artworks can take a selfie. As Jim and Mary Barr both state (see source above) - > “One minute you think it’s going to take the job of showing our art culture seriously [*Te Papa*] and then, before you know it, it’s making an out-of-left-field panicky effort to not fall behind in the audience attention arms race."
 
 There has been a few controversial calls made by Te Papa this year, the most significant being the [announcement][announcement] regarding the suspension of Te Papa Press. These decisions made by the new Chief Executive of Te Papa Rick Ellis, who is a _TV guy._
 
