@@ -19,3 +19,4 @@ Contact via [email][email] or [twitter][twitter]
 [iowa]: http://io-wa.me
 [ai]:   http://inventati.org
 [email]: mailto:hi@tomhackshaw.com
+[twitter]: https://twitter.com/tomhackshaw
