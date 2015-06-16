@@ -5,7 +5,7 @@ date:   2015-06-16 9:00:15
 categories: security uoa
 ---
 
-> A system that has been duck-taped together is bound to fail.
+A system that has been duck-taped together is bound to fail.
 
 This post may be relevant to those thinking of enrolling into the University of Auckland, or to those already involved.
 
