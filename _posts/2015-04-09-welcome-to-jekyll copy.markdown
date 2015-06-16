@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-04-09 11:23:32
-categories: jekyll update
+title:  "Te Papa, what are you doing?"
+date:   2015-05-13 11:23:32
+categories: art tepapa
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+> When you try to cater for everyone, it is likely to be disasterous.
 
-Jekyll also offers powerful support for code snippets:
+You’ll find this post in your `Note: source of this story was originally found [here][here]` 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+A concept from the Marketing Department at Te Papa New Zealand has emerged, showing an “x marks the spot” for where viewers of artworks can take a selfie. As Jim and Mary Barr both state (see source above) - _“One minute you think it’s going to take the job of showing our art culture seriously [*Te Papa*] and then, before you know it, it’s making an out-of-left-field panicky effort to not fall behind in the audience attention arms race."_
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+There has been a few controversial calls made by Te Papa this year, the most significant being the [announcement][announcement] regarding the suspension of Te Papa Press. These decisions made by the new Chief Executive of Te Papa Rick Ellis, who is a _TV guy._
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Come on Te Papa, pull your socks up.
+
+
+
+Sincerely,
+<br>
+Tom Hackshaw
+
+[announcement]:      https://overthenet.blogspot.ch/2015/04/were-with-stupid.html
+[here]:   https://overthenet.blogspot.ch/2015/06/but-ill-look-gross-against-yellow.html
