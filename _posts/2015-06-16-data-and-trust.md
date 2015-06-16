@@ -74,3 +74,22 @@ For any further info, go to [PRISM Break][pb] to find free and open source alter
 Sincerely,
 <br>
 Tom Hackshaw
+
+[mb]: mailbox.org
+[kl]: kolabnow.com
+[tu]: tutanota.de
+[pb]: prism-break.org
+[searx]: searx.me
+[sp]: eu.startpage.com
+[sc]: swisscows.ch
+[yc]: yacy.net
+[ddg]: https://en.wikipedia.org/wiki/DuckDuckGo
+[PGP]: https://emailselfdefense.fsf.org/en/
+[post]: posteo.de
+[oc]: owncloud.org
+[pd]: pyd.io
+[dias]: https://diasporafoundation.org/
+[pump]: pump.io
+[jit]: jitsi.org
+[tox]: tox.im
+[mub]: mumble.info
