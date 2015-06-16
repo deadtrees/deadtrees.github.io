@@ -45,6 +45,17 @@
 					<a href="/about.html">about</a>
 				</li>			
 			{% endif %}
+			{% if page.path == "about.html" %}
+			<span class="title">
+				<li>
+					<a href="https://tomhackshaw.com">tom who?</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="https://tomhackshaw.com">tom who?</a>
+				</li>			
+			{% endif %}
 		</div>
 		<div class="description"> {{ site.motto }} </div>		
 		<ul class="social-links">
