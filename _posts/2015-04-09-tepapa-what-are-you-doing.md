@@ -5,7 +5,7 @@ date:   2015-05-13 11:23:32
 categories: art tepapa
 ---
 
-> When you try to cater for everyone, it is likely to be disasterous.
+When you try to cater for everyone, it is likely to be disasterous.
 
 Note: source of this story was originally found [here][here] 
 
