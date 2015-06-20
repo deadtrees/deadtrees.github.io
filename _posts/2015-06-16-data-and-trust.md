@@ -75,21 +75,21 @@ Sincerely,
 <br>
 Tom Hackshaw
 
-[mb]: mailbox.org
-[kl]: kolabnow.com
-[tu]: tutanota.de
-[pb]: prism-break.org
-[searx]: searx.me
-[sp]: eu.startpage.com
-[sc]: swisscows.ch
-[yc]: yacy.net
+[mb]: https://mailbox.org
+[kl]: https://kolabnow.com
+[tu]: https://tutanota.de
+[pb]: https://prism-break.org
+[searx]: https://searx.me
+[sp]: https://eu.startpage.com
+[sc]: https://swisscows.ch
+[yc]: https://yacy.net
 [ddg]: https://en.wikipedia.org/wiki/DuckDuckGo
 [PGP]: https://emailselfdefense.fsf.org/en/
-[post]: posteo.de
-[oc]: owncloud.org
-[pd]: pyd.io
+[post]: https://posteo.de
+[oc]: https://owncloud.org
+[pd]: https://pyd.io
 [dias]: https://diasporafoundation.org/
-[pump]: pump.io
-[jit]: jitsi.org
-[tox]: tox.im
-[mub]: mumble.info
+[pump]: https://pump.io
+[jit]: https://jitsi.org
+[tox]: https://tox.im
+[mub]: https://mumble.info
