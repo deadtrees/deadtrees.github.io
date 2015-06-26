@@ -14,14 +14,12 @@ Prior to Elam, Tom took classes at Artstation, Ponsonby for three years (now kno
 
 Contact via [email][email] or [twitter][twitter]
 
-<div class="unit two-thirds align-right center-on-mobiles">
-      <p>
-        Proudly hosted by
+<br><br>
+<br><br>
+Proudly hosted by
         <a href="https://github.com">
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="100" height="30" alt="GitHub • Social coding">
         </a>
-      </p>
-    </div>
 
 
 
