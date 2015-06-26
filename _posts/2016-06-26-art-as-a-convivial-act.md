@@ -2,7 +2,7 @@
 layout: post
 title:  "Art as a means of play: working with I.O.W.A. in 2015"
 date:   2015-06-26 14:16:09
-categories: art I.O.W.A.
+categories: art I.O.W.A. uoa
 ---
 
 The [I.O.W.A. collective][iowa] has had many changes since growing independent from the Elam sculpture project.
@@ -10,7 +10,7 @@ The [I.O.W.A. collective][iowa] has had many changes since growing independent f
 <img src="https://farm1.staticflickr.com/369/19064716712_dba477de1a_c.jpg">
 _Still from "The Basketball Project", 2015_
 
-The main noticeable change is the lack of leadership/definite direction (which is arguably not a bad thing in a collective). Last year when the collective operated under the Elam sculpture module, I.O.W.A. loosely operated under the instructions of Michael Parekowhai and Rik Wilson, who had overseen the project and acted as mentors.
+The main noticeable change is the lack of leadership/definite direction (which is arguably not a bad thing in a collective). Last year when the collective operated under the Elam sculpture module, I.O.W.A. loosely operated under the instructions of [Michael Parekowhai][mp] and [Rik Wilson][rw], who had overseen the project and acted as mentors.
 
 This meant that we had a clearer sense of direction: we all had the same deadlines and carried out these loose instructions given to us by our tutors. However, this did not mean they acted as our leaders; in the end we held the power to do what we want and how to do it, and they acted as advisors. This way I.O.W.A. was able to act with no social hierarchies and people had their specific roles/skills for contribution. 
 
@@ -26,7 +26,7 @@ However, there have been many positive things happen to the I.O.W.A. collective 
 Sincerely,
 <br>
 Tom Hackshaw
-
+<br><br>
 _This article represents the personal thoughts and ideas of the author (Tom Hackshaw), and are *not* representative of the I.O.W.A. collective as a whole_
 
 
@@ -41,3 +41,5 @@ _This article represents the personal thoughts and ideas of the author (Tom Hack
 [up]: http://www.eventfinder.co.nz/2015/i-o-w-a-collective-its-ok-were-artists/auckland/ponsonby
 [wf]: https://tomhackshaw.com/exhibit/cv.html
 [bb]: https://tomhackshaw.com/exhibit/basketball.html
+[rw]: https://nz.linkedin.com/pub/rik-wilson/39/28/2a2
+[mp]: https://en.wikipedia.org/wiki/Michael_Parekowhai
