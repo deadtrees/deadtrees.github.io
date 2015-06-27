@@ -17,7 +17,7 @@ This meant that we had a clearer sense of direction: we all had the same deadlin
 <img src="https://farm1.staticflickr.com/356/19073400501_cbd42d2e72_c.jpg">
 _"The Basketball Project", 2015_
 
-Fast-forward to 2015, and the collective continued to operate independently from Elam and it's staff. From November 2014 we have been working on our [upcoming exhibition][up] at Studio One Toi Tu, Ponsonby (formely known as Artstation), which is scheduled for July 29. All of the work that we have been making has been in relation to our upcoming show. So far, the two most resolved works created during this time is [_Workforce_][wf] and [_The Basketball Project_][bb].
+Fast-forward to 2015, and the collective continued to operate independently from Elam and it's staff. From November 2014 we have been working on our [upcoming exhibition][up] at Studio One Toi Tu, Ponsonby (formely known as Artstation), which is scheduled for July 29. All of the work that we have been making has been in relation to our upcoming show. So far, the two most resolved works created during this time are [_Workforce_][wf] and [_The Basketball Project_][bb].
 
 The main difficulties of this year include the resignation of one member, as well as organising meetings/times for creating work. Everyone in the collective have their own obligations which often clash with one-another. Migrating from first to second year has resulted a greater workload at Elam and a greater emphasis on time management, meaning everyone collectively has less free time. Being a conjoint student, I have had to organise myself even more in order to try and stay on top of everything.
 
