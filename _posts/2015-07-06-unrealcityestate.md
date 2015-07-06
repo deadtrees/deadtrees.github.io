@@ -54,9 +54,16 @@ A koha space was set up near one of the main entrances into Albert Park. This sp
 Things were initially slow to get going across the whole park. Windy weather conditions meant that the balloons were having to be constantly re-installed as they would be blown out of the fountain space. It also meant that any members of the public who passed through the park would not sit and relax, as the constant winds prevented them from doing so.
 
 <img src="https://farm1.staticflickr.com/393/19433011551_04e5a28ecb_c.jpg">
+<br><br>
+<br><br>
+<br><br>
 
 <iframe src="https://player.vimeo.com/video/132630652?loop=1&color=ffffff&title=0&byline=0&portrait=0" width="767" height="575" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+_Children interacting with the work_
+<br><br>
+<br><br>
+<br><br>
 However, from about 2 PM the weather conditions began to calm down, and more people began interacting with the bubblebath space. It is important to note that children were the first to react to the space, with the adults reluctantly following them. Kitazawa explained that in previous projects children were always the first to take initiative and react with what was happening, perhaps because of their directness and brutal honesty.
 
 <img src="https://farm1.staticflickr.com/394/19242840959_8c3b01ceff_c.jpg">
