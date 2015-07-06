@@ -67,53 +67,7 @@ Ultimately, the simplicity, ambiguity and initiative of the children are what I 
 
 Thank you everyone who participated in the project, it was a lot of fun to be a part of.
 <br>
-Jun Kitazawa,
-<br>
-Sara Black,
-<br>
-Vân Anh Trần,
-<br>
-Bella Sun,
-<br>
-Aya Yamashita,
-<br>
-Eason Xu,
-<br>
-David Zhang,
-<br>
-Yasmin Waiching,
-<br>
-Wade Wu,
-<br>
-Mano Rankin,
-<br>
-Kit Keung,
-<br>
-Tommo Jiang,
-<br>
-Yona Lee,
-<br>
-Kathryn Aucamp,
-<br>
-Mandy Chan,
-<br>
-Abbey Gamit,
-<br>
-Christine Meow,
-<br>
-Liu Yuan,
-<br>
-Kaoru Kodama,
-<br>
-Frida Keegan,
-<br>
-Rosza Majsa,
-<br>
-Joseph Durana,
-<br>
-Taipari Connelly,
-<br>
-anyone else I may have forgotten,
+Jun Kitazawa, Sara Black, Vân Anh Trần, Bella Sun, Aya Yamashita, Eason Xu, David Zhang, Yasmin Waiching, Wade Wu, Mano Rankin, Kit Keung, Tommo Jiang, Yona Lee, Kathryn Aucamp, Mandy Chan, Abbey Gamit, Christine Meow, Liu Yuan, Kaoru Kodama, Frida Keegan, Rosza Majsa, Joseph Durana, Taipari Connelly, anyone else I may have forgotten,
 <br>
 and you.
 
