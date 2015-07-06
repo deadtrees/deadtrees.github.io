@@ -55,7 +55,7 @@ Things were initially slow to get going across the whole park. Windy weather con
 
 <img src="https://farm1.staticflickr.com/393/19433011551_04e5a28ecb_c.jpg">
 
-<iframe src="https://player.vimeo.com/video/132630652?autoplay=0&loop=1&color=ffffff&byline=0&portrait=0" width="700" height="575" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/132630652?color=ffffff&title=0&byline=0&portrait=0" width="700" height="575" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 However, from about 2 PM the weather conditions began to calm down, and more people began interacting with the bubblebath space. It is important to note that children were the first to react to the space, with the adults reluctantly following them. Kitazawa explained that in previous projects children were always the first to take initiative and react with what was happening, perhaps because of their directness and brutal honesty.
