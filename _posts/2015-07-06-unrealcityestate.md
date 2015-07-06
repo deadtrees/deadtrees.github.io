@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Living in an alternative life: the #unrealcityestate project"
+title:  "Living in an alternative daily life: the #unrealcityestate project"
 date:   2015-07-06 14:39:00
 categories: art social uoa
 ---
