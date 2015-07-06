@@ -84,6 +84,11 @@ Sincerely,
 <br>
 Tom Hackshaw
 
+<br><br>
+<br><br>
+<br><br>
+This article represents the personal thoughts and ideas of the author (Tom Hackshaw), and are _not_ representative of the IOWA collective as a whole.  
+
 [un]: http://unrealcityestate.com
 [iapa]: http://iapa2015.nz
 [jun]: http://junkitazawa.com
