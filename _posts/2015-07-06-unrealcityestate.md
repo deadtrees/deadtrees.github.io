@@ -47,7 +47,7 @@ To initiate the bubblebath space, approximately 20 balloons were blown up and pl
 <br>
 _The Hairdressing space_
 
-The hairdressing space, also known as the “Unicorn Horn space” was undertaken by IOWA member Joseph Durana. People could come and receive haircuts, free of charge. Across the course of the day 2 people had their hair cut, both of whom were connected to the project. Nevertheless, the site of someone getting their hair cut in a public space created an interesting and unusual spectacle for people, this being an underlying motif in all of Kitazawa's projects.
+The hairdressing space, also known as the “Unicorn Horn space” was undertaken by IOWA member Joseph Durana. People could come and receive haircuts, free of charge. Across the course of the day 2 people had their hair cut, both of whom were connected to the project. Nevertheless, the sight of someone getting their hair cut in a public space created an interesting and unusual spectacle for people, this being an underlying motif in all of Kitazawa's projects.
 
 A koha space was set up near one of the main entrances into Albert Park. This space contained many relics, strange objects and materials which people left behind or could take home for free. None of the activities for the Unreal City involved money and were done out of the good will of various people. Because of this, the project as a whole could be perceived as an act of koha, since people are giving up their own time and energy for the sake of others.
 
