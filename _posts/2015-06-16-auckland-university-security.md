@@ -28,7 +28,7 @@ There is then the illusion of security that the university offers as well.
 
 Firstly, the SSL version of the University of Auckland’s website is full of holes. On ssleuth it shows that auckland.ac.nz, www.auckland.ac.nz and its CDN uses TLS RSA with RC4 128 SHA, a cipher suite that has been broken for years [4]. On ssleuth it scores a 3.7/10. Compare this with a mainstream website like Soundcloud, which scores an 8.8/10. The subdomain www.library.auckland.ac.nz isn’t even encrypted at all and loads over plain HTTP.
 
-Even my own site [tomhackshaw.com][th] and all of my subdomains, which are delivered through Cloudflare's Content Delivery Network, score 8.8/10. 
+Even my own site [tomhackshaw.com][th] and all of my subdomains, which are delivered through Cloudflare's Content Delivery Network, score 9.0/10. 
 
 _It’s 2015._ Things like this are inexcusable. These pages are insecure and are vulnerable to Man-in-the-Middle attacks as well as cross site scripting (XSS) attacks. Anyone with even the most basic understanding of Infosec and Opsec knows the danger of having a site that has only been partially secured.
 
@@ -42,6 +42,8 @@ Sincerely,
 <br>
 Tom Hackshaw
 
+UPDATE - Looks the Auckland University homepage [auckland.ac.nz][au] nows uses modern crytography for their SSL certificate, scoring a 9.0 on ssleuth and scoring a B on Qualys SSL Labs. It would score higher if it did not accept the RC4 cipher which is depreciated, and supported Forward Secrecy. Otherwise thank you Auckland University for securing the site.
+
 <br><br>
 [1] <a href="https://nakedsecurity.sophos.com/2014/03/18/google-sued-for-data-mining-students-email/">https://nakedsecurity.sophos.com/2014/03/18/google-sued-for-data-mining-students-email/</a>
 
@@ -54,4 +56,5 @@ Tom Hackshaw
 [kolab]: https://kolabnow.com
 [post]:  https://posteo.de
 [th]:    https://tomhackshaw.com
+[au]: https://auckland.ac.nz
 
