@@ -72,13 +72,17 @@ Children interacting with the work
 <br><br>
 <br><br>
 <br><br>
+<img src="https://farm1.staticflickr.com/393/18884195934_cc1e6d86a7_c.jpg">
+
 However, from about 2 PM the weather conditions began to calm down, and more people began interacting with the bubblebath space. It is important to note that children were the first to react to the space, with the adults reluctantly following them. Kitazawa explained that in previous projects children were always the first to take initiative and react with what was happening, perhaps because of their directness and innocent approach to things.
 
 <img src="https://farm1.staticflickr.com/394/19242840959_8c3b01ceff_c.jpg">
 
 More and more people began to engage with the space, to the point where we were no longer needed to keep the space alive. We were then able to successfully fulfill one of the goals of this project; creating something for the community which they can take ownership of and use for themselves. Even after 3 PM people were still engaging with the space despite our absence. While the hairdressers and koha space had been cleaned up, the bubblebath continued to attract members of the public.
 
+<center>
 <img src="https://farm1.staticflickr.com/555/19433357021_932e8d8ac8_c.jpg">
+</center>
 
 Ultimately, the simplicity, ambiguity and initiative of the children are what I believe kept the bubblebath alive for as long as it did. It was fantastic to see what other participants of the Unreal City created and how the public reacted. There were antique stores, cafes, tightrope workshops, time-machines,  queer universities among others, all of which were unique in their own way and related back to this Unreal City as well as Auckland City.  
 
