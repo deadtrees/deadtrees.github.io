@@ -5,9 +5,9 @@ date:   2015-07-06 14:39:00
 categories: art social uoa
 ---
 
+### What is it like to live in an imaginary city?
+
 <img src="https://farm1.staticflickr.com/448/19402384166_58c8757c9b_c.jpg">
-<br>
-_What is it like to live in an imaginary city?_
 
 Over the past two weeks I've been involved in a project known as [Unreal City Estate][un], created by [Jun Kitazawa][jun] and curated by Sara Black. This was a satellite project which was a part of the [2015 International Award for Public Art conference][iapa] (IAPA 2015), hosted by the University of Auckland, the Elam School of Fine Arts, Auckland Art Gallery Toi o Tāmaki and the Shandong University of Art & Design. 
 
