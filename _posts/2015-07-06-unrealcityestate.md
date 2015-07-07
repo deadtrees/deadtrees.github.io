@@ -49,6 +49,10 @@ _The Hairdressing space, 2015_
 
 The hairdressing space, also known as the “Unicorn Horn space” was undertaken by IOWA member Joseph Durana. People could come and receive haircuts, free of charge. Across the course of the day 2 people had their hair cut, both of whom were connected to the project. Nevertheless, the sight of someone getting their hair cut in a public space created an interesting and unusual spectacle for people, this being an underlying motif in all of Kitazawa's projects.
 
+<img src="https://farm1.staticflickr.com/343/18884195274_a6ca949f8a_c.jpg">
+<br>
+_The Koha space, 2015_
+
 A koha space was set up near one of the main entrances into Albert Park. This space contained many relics, strange objects and materials which people left behind or could take home for free. None of the activities for the Unreal City involved money and were done out of the good will of various people. Because of this, the project as a whole could be perceived as an act of koha, since people are giving up their own time and energy for the sake of others.
 
 Things were initially slow to get going across the whole park. Windy weather conditions meant that the balloons were having to be constantly re-installed as they would be blown out of the fountain space. It also meant that any members of the public who passed through the park would not sit and relax, as the constant winds prevented them from doing so.
@@ -91,7 +95,9 @@ Tom Hackshaw
 <br><br>
 <br><br>
 <br><br>
-This article represents the personal thoughts and ideas of the author (Tom Hackshaw), and are _not_ representative of the IOWA collective as a whole.  
+This article represents the personal thoughts and ideas of the author (Tom Hackshaw), and are _not_ representative of the IOWA collective as a whole. 
+
+Photographs of the project can be found [here][here] (licensed under CC-BY 2.0)
 
 [un]: http://unrealcityestate.com
 [iapa]: http://iapa2015.nz
@@ -101,3 +107,4 @@ This article represents the personal thoughts and ideas of the author (Tom Hacks
 [lr]: http://www.junkitazawa.com/04-livingroom.html
 [koha]: https://en.wikipedia.org/wiki/Koha_(custom)
 [iowa]: https://iowa.nz
+[here]: https://www.flickr.com/photos/akira2019/sets/72157655143575996
