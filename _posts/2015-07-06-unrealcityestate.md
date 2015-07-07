@@ -39,13 +39,13 @@ On the day of the project 7 members of IOWA, including myself, responded to each
 
 <img src="https://farm4.staticflickr.com/3917/18805928574_313b08cf1f_c.jpg">
 <br>
-_The Bubblebath space_
+_The Bubblebath space, 2015_
 
 To initiate the bubblebath space, approximately 20 balloons were blown up and placed in the Albert Park fountain. These balloons acted as a “bubbles”, and each contained a small amount of water to weigh it down and prevent them from flying away. This amount was then increased to approximately 60 balloons. Actual bottles of bubble soap with wands were also placed around the space, open for people to use and take home with them if they wished.
 
 <img src="https://farm1.staticflickr.com/442/19242786789_3375f6e3d7_c.jpg">
 <br>
-_The Hairdressing space_
+_The Hairdressing space, 2015_
 
 The hairdressing space, also known as the “Unicorn Horn space” was undertaken by IOWA member Joseph Durana. People could come and receive haircuts, free of charge. Across the course of the day 2 people had their hair cut, both of whom were connected to the project. Nevertheless, the sight of someone getting their hair cut in a public space created an interesting and unusual spectacle for people, this being an underlying motif in all of Kitazawa's projects.
 
@@ -62,7 +62,7 @@ Things were initially slow to get going across the whole park. Windy weather con
 <iframe src="https://player.vimeo.com/video/132630652?loop=1&color=ffffff&title=0&byline=0&portrait=0" width="530" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br>
-_Children interacting with the work_
+Children interacting with the work
 </center>
 
 <br><br>
