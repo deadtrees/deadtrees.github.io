@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+<img src="https://farm1.staticflickr.com/309/19506683975_1b79c6660d_c.jpg">
+_Tom Hackshaw by Bella Sun_
+
 斗夢・ハクショウは父NZ人、母日本人の両親を持ち幼少の頃から東洋と西洋の カルチャーに憧憬が深い。 現在はニュージーランド、オークランド在住の オークランド大学イーラム・ファインアート専攻の 生徒である。 オークランド、ポンソンビーにある アートステイションにて3年間美術を学ぶ。
 
 -
