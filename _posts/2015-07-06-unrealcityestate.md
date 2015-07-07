@@ -61,8 +61,10 @@ Things were initially slow to get going across the whole park. Windy weather con
 
 <iframe src="https://player.vimeo.com/video/132630652?loop=1&color=ffffff&title=0&byline=0&portrait=0" width="530" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+<br>
 _Children interacting with the work_
 </center>
+
 <br><br>
 <br><br>
 <br><br>
