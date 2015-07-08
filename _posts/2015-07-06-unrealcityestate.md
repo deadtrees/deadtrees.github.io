@@ -13,7 +13,7 @@ Over the past two weeks I've been involved in a project known as [Unreal City Es
 
 <img src="https://farm1.staticflickr.com/536/19258331991_466af7738a_c.jpg">
 
-The Unreal City Estate in Albert Park, Auckland was a place _“where people get together and create ‘an imaginary city’ that could exist alongside the real city we live in today.”_ Anyone is able to lease out there own plot of land on Albert Park and respond to their chosen site how they wish. It is essentially a city within a city, placed in the public context of a park between 11 AM and 3 PM on Sunday 5th July.
+The Unreal City Estate in Albert Park, Auckland was a place _“where people get together and create ‘an imaginary city’ that could exist alongside the real city we live in today.”_ Anyone is able to lease out their own plot of land on Albert Park and respond to their chosen site how they wish. It is essentially a city within a city, placed in the public context of a park between 11 AM and 3 PM on Sunday 5th July.
 
 Kitazawa's practice primarily involves working with small communities and revolves around the idea of the small festival, following studies by scholars such as [Yanagita Kunio][yk] and others. All across Japan small towns celebrate festivals that are undertaken by members of the community, for the community. Therefore, these festivals are events that are for themselves, not necessarily an event for others. However, through the recent spike in popular art festivals and larger festivals in general, it has meant that these smaller village/town festivals are dying out.
 
